@@ -14,7 +14,7 @@ public class NeerajClass {
         this.context=context;
     }
 
-    void showMessage(String message){
+    public  void showMessage(String message){
         Toast.makeText(context, message, Toast.LENGTH_SHORT).show();
     }
 }
