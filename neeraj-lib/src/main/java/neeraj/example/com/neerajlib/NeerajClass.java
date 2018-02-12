@@ -10,7 +10,7 @@ import android.widget.Toast;
 public class NeerajClass {
     Context context;
 
-    NeerajClass(Context context){
+   public NeerajClass(Context context){
         this.context=context;
     }
 
